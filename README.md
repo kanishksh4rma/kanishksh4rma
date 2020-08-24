@@ -7,5 +7,5 @@
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [linkedIn](https://linkedin.com/in/kanishksh4rma)
 - 😄 Pronouns: ... happy coder
-- ⚡ Fun fact: ... I can code in my dreams too )
+- ⚡ Fun fact: ... I can code in my dreams too ) 
 
