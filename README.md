@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... Time Series Forecasting
-- 🌱 I’m currently learning ... ChatBot
-- 👯 I’m looking to collaborate on ... Lung cancer prediction using X-ray  using Trnasfer learning
-- 🤔 I’m looking for help with ... ChatBot
+- 🌱 I’m currently learning ... Advanced Statistics
+- 👯 I’m looking to collaborate on ... PodCast
+- 🤔 I’m looking for partner for ... Data Science Hackathons
 - 💬 Ask me about ... anything
 
 ---
@@ -17,5 +17,5 @@
 
 - 😄 Pronouns: ... Innovative Programmer
 
-> - ⚡ Fun fact: ... I can code in my dreams too )
+> - ⚡ Fun fact: ... I can debug in my dreams ))
 
