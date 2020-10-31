@@ -13,7 +13,7 @@
 
 ---
 
-- 😄 Pronouns: ... Innovative Programmer
+
 
 > - ⚡ Fun fact: ... I can debug in my dreams ))
 
