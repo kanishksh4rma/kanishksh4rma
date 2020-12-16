@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **anything :)**
 
-- 📄 Know about my experiences [linkedin.com/in/kanishksh4rma](linkedin.com/in/kanishksh4rma)
+- 📄 Know about my experiences [linkedin.com/in/kanishksh4rma](https://linkedin.com/in/kanishksh4rma)
 
 - ⚡ Fun fact **I can code in my dreams too :)**
 
