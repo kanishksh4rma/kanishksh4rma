@@ -2,11 +2,9 @@
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 
 
-- 🌱 I’m currently learning **Image processing and Advanced statistics**
+- 🌱 I’m currently working on **Breast Cancer Classifier**
 
-- 💬 Ask me about **anything :)**
-
-- 📄 Know about my experiences [linkedin.com/in/kanishksh4rma](https://linkedin.com/in/kanishksh4rma)
+- 📄 Know about my experiences: [My Portfolio](https://kanishksh4rma.github.io/)
 
 - ⚡ Fun fact **I can code in my dreams too :)**
 
