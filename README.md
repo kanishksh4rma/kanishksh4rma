@@ -3,6 +3,7 @@
 
 
 - 🌱 I’m currently working on **Breast Cancer Classifier**
+- 😎 Recent project : **Brain Tumor Detection using MRI Scans**
 
 - 📄 Know about my experiences: [My Portfolio](https://kanishksh4rma.github.io/)
 
