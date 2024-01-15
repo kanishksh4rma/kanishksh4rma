@@ -3,7 +3,7 @@
 
 - 🌱 Student Intern at **NOKIA, Bangalore**
 - 😎 Currently working in **DevOps and cloud computing (Kubernetes, Networking, CI/CD Pipeline, Jenkins, Automation)**
-- 🚀 Check out my [Resume](https://kanishksh4rma.github.io/mad/scripts_files/Kanishk%20Sharma%20Resume%20Jan%202024.pdf)
+- 🚀 Check out my [Resume](Kanishk%20Sharma%20Resume%20Jan%202024.pdf)
 
 - ⚡ Fun fact: **I can code in my dreams too!**
 
