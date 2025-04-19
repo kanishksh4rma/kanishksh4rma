@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kanishk Sharma 👋</h1>
-<h3 align="center">DevOps Engineer</h3>
+<h3 align="center">Developer Support Engineer</h3>
 
 - 🌱 DSE at **JFrog, Bangalore**
 - 🌱 Ex- Student Intern at **NOKIA, Bangalore**
