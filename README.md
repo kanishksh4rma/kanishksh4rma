@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Kanishk Sharma 👋</h1>
-<h3 align="center">Junior Data Scientist | AI Developer</h3>
+<h3 align="center">DevOps Engineer</h3>
 
-- 🌱 Student Intern at **NOKIA, Bangalore**
+- 🌱 DSE at **JFrog, Bangalore**
+- 🌱 Ex- Student Intern at **NOKIA, Bangalore**
 - 😎 Currently working in **DevOps and cloud computing (Kubernetes, Networking, CI/CD Pipeline, Jenkins, Automation)**
 - 🚀 Check out my [Resume](Kanishk%20Sharma%20Resume%20Jan%202024.pdf)
 
